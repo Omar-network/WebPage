@@ -96,3 +96,18 @@ ul li a:hover{
 }
 srch.focus{
     outline: none;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+.content.par{
+    padding-left: 29px;
+    padding-bottom: 25px;
+     font-family:Arial;
+     letter-spacing: 1.2px;
+     line-height: 30px;
+}
